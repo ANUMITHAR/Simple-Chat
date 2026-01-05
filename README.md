@@ -73,4 +73,5 @@ The UI includes:
 - Message timestamps
 - Responsive mobile layout
 - Emoji support
+<img width="1893" height="891" alt="image" src="https://github.com/user-attachments/assets/6b5888c6-4914-4300-8e1a-be7fc5bcee4e" />
 
